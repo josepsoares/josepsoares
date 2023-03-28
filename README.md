@@ -1,4 +1,4 @@
-### &#12299; hello 👋, 
+### &#12299; hello 👋
 #### &#12299; i'm josé p. soares, a frontend and backend dev 🦆 
 
 ----
