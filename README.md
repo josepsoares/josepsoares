@@ -7,11 +7,11 @@
 <br/>
 **&#8764;** tech/libraries that i'm comfortable with; 😊
 <br/>
-_&nbsp; &nbsp; &nbsp;~ html5, css/sass, tailwindcss, js/ts, nodejs, react, react-native/expo, nextjs, vue, nuxt, astro, express, prisma, php, laravel, sql, git, docker, etc._
+_&nbsp; &nbsp; &nbsp;~ html5, css/sass, tailwind, js/ts, node, react, rn/expo, next, vue, nuxt, svelte, astro, express, prisma, php, laravel, sql, git, docker, etc._
 <br/>
 **&#8764;** tech/libraries which i have basic skills and i'm still learning; 🤔
 <br/>
-_&nbsp; &nbsp; &nbsp;~ svelte, trpc, mongodb, supabase, golang, deno, python, ffmpeg, nginx, etc._
+_&nbsp; &nbsp; &nbsp;~ trpc, mongodb, supabase, golang, python, ffmpeg, nginx, etc._
 <br/>
 
 ----
