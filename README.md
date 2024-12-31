@@ -6,11 +6,11 @@
 <br/>
 **&#8764;** i'm comfortable with; 😊
 <br/>
-_&nbsp; &nbsp; &nbsp;~ [ html5, css, tailwind, bootstrap, js/ts, node.js, express.js, react, vue, astro, php, laravel, zoho crm / catalyst / creator, sql, git ]
+_&nbsp; &nbsp; &nbsp; [ html5, css, tailwind, bootstrap, js/ts, node.js, express.js, react, vue, astro, php, laravel, zoho crm / catalyst / creator, sql, git ]_
 <br/>
 **&#8764;** i have basic knowledge in: 🤔
 <br/>
-_&nbsp; &nbsp; &nbsp;~ [ docker, golang, deno, svelte, nuxt ]
+_&nbsp; &nbsp; &nbsp; [ docker, golang, deno, svelte, nuxt ]_
 <br/>
 
 ----
