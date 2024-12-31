@@ -1,17 +1,16 @@
-### &#12299; hello 👋
-#### &#12299; i'm josé p. soares, a frontend and backend dev 🦆 
+### &#12299; sup, i'm josé p. soares, a frontend and backend dev 👋 
 
 ----
 
-**&#8764;** currently creating websites, apps and whatnot by myself; 🙃
+**&#8764;** currently creating websites, api's and whatnot; 🙃
 <br/>
-**&#8764;** tech/libraries that i'm comfortable with; 😊
+**&#8764;** i'm comfortable with; 😊
 <br/>
-_&nbsp; &nbsp; &nbsp;~ html5, css/sass, tailwind, js/ts, node, react, rn/expo, next, vue, nuxt, svelte, astro, express, prisma, php, laravel, sql, git, docker, etc._
+_&nbsp; &nbsp; &nbsp;~ [ html5, css, tailwind, bootstrap, js/ts, node.js, express.js, react, vue, astro, php, laravel, zoho crm / catalyst / creator, sql, git ]
 <br/>
-**&#8764;** tech/libraries which i have basic skills and i'm still learning; 🤔
+**&#8764;** i have basic knowledge in: 🤔
 <br/>
-_&nbsp; &nbsp; &nbsp;~ trpc, mongodb, supabase, golang, python, ffmpeg, nginx, etc._
+_&nbsp; &nbsp; &nbsp;~ [ docker, golang, deno, svelte, nuxt ]
 <br/>
 
 ----
